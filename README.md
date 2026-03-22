@@ -1,7 +1,6 @@
 Fundamental Booster is an Excel-based project designed to strengthen core data handling and analysis skills using multiple datasets. This project focuses on applying fundamental concepts like data cleaning, formulas, and analysis in a structured way.
 
 **First Dataset**:
-
 1) Students Grade Sheet
 Contains student academic data
 Fields include:
@@ -20,11 +19,9 @@ Percentage calculation
 Handle missing data
 
 <img width="1895" height="538" alt="image" src="https://github.com/user-attachments/assets/3f8fc0cd-8d4a-4a23-a9ee-76efc87e1668" />
-
-
+<br>
 
 **Second Dataset**:
-
 2) Sales Data Sheet
 Contains product sales records
 Fields include:
@@ -44,9 +41,7 @@ Sorting
 Data visualization (charts)
 
 <img width="1293" height="693" alt="image" src="https://github.com/user-attachments/assets/f7ab5845-3c63-43be-93bb-8dca069a1f46" />
-
-
-
+<br>
 **Third Dataset**:
 
 3) Employee Data Sheet
