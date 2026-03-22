@@ -24,6 +24,7 @@ Handle missing data
 
 
 **Second Dataset**:
+
 2) Sales Data Sheet
 Contains product sales records
 Fields include:
@@ -47,6 +48,7 @@ Data visualization (charts)
 
 
 **Third Dataset**:
+
 3) Employee Data Sheet
 Contains employee details
 Fields include:
